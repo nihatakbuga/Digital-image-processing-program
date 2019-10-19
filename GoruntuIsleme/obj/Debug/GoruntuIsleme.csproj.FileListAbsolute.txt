@@ -1,0 +1,9 @@
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojAssemblyReference.cache
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+D:\Belgeler\source\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
